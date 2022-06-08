@@ -1,1 +1,1 @@
-# -tindog-website-bootstrap-
+# tindog-website-bootstrap
